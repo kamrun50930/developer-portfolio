@@ -7,3 +7,5 @@ section{display:flex;}
 .link-button{text-decoration: none;background-image:linear-gradient(orange,tomato) ;padding:10px;border-radius: radius;color:white;}
 .top-banner{background-image:url(images/top-banner.png);
 background-repeat:no-repeat;}
+h3{font-size:20px;}
+.dream-big{background-image:url(images/dream-bg.png); background-repeat:no-repeat;background-position:right;}
